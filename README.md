@@ -1,3 +1,10 @@
+> Fork说明：
+>
+> - 将书中用到的图片地址修改为当前项目；
+> - 使用`docsify`构建了比较美观的在线阅读地址。
+
+------
+
 郎咸平说过：比特币白给我都不要
 
 巴菲特：比特币是泡沫，不是一种能够生产价值的资产
@@ -79,11 +86,11 @@ https://item.jd.com/12620946.html
 
 ## Mastering Bitcoin - Second Edition 版权说明
 
-The [second_edition](https://github.com/bitcoinbook/bitcoinbook/tree/second_edition) branch, is the source for the published versions of Mastering Bitcoin (Second Edition).
+The [second_edition](https://github.com/bitcoinbook/bitcoinbook/tree/second_edition) branch, is the source for the published versions of Mastering Bitcoin (Second Edition).
 
-The tag [second_edition_print_1](https://github.com/bitcoinbook/bitcoinbook/releases/tag/second_edition_print_1), corresponds to the first print of the second edition.
+The tag [second_edition_print_1](https://github.com/bitcoinbook/bitcoinbook/releases/tag/second_edition_print_1), corresponds to the first print of the second edition.
 
 [![Creative Commons License](http://upload-images.jianshu.io/upload_images/1785959-177b27ea70947c7d?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)](http://creativecommons.org/licenses/by-nc-nd/4.0/) 
-Mastering Bitcoin - Second Edition by [Andreas M. Antonopoulos LLC](https://antonopoulos.com/) is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Mastering Bitcoin - Second Edition by [Andreas M. Antonopoulos LLC](https://antonopoulos.com/) is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 It is expected that the second edition will be released under a CC-BY-SA license within a year of publication.
