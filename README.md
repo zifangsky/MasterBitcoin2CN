@@ -1,7 +1,7 @@
 > Fork说明：
 >
 > - 将书中用到的图片地址修改为当前项目；
-> - 使用`docsify`构建了比较美观的在线阅读地址。
+> - 使用`docsify`构建了比较美观的在线阅读地址（[https://zifangsky.github.io/MasterBitcoin2CN/](https://zifangsky.github.io/MasterBitcoin2CN/).）。
 
 ------
 
